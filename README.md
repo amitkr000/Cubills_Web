@@ -7,7 +7,7 @@ Play On : https://amitkr.itch.io/cubills
 Game is also hosted on Github : https://amitkr000.github.io/Cubills_MobileWeb/
 
 > [!NOTE]
-> The Github hosted game control not work correctly.
+> The Github hosted game control doesn't work correctly.
 
 
 ## Here are some Screenshots of the gameplay
