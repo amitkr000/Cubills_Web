@@ -9,7 +9,6 @@ Game is also hosted on Github : https://amitkr000.github.io/Cubills_MobileWeb/
 > [!NOTE]
 > The Github hosted game control not work correctly.
 
-<hr/>
 
 ## Here are some Screenshots of the gameplay
 &nbsp;
