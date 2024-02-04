@@ -1,9 +1,9 @@
 const cacheName = "Aimins-Cubills-0.1";
 const contentToCache = [
-    "Build/Mobile_Browser.loader.js",
-    "Build/Mobile_Browser.framework.js",
-    "Build/Mobile_Browser.data",
-    "Build/Mobile_Browser.wasm",
+    "Build/Mobile Web.loader.js",
+    "Build/Mobile Web.framework.js",
+    "Build/Mobile Web.data",
+    "Build/Mobile Web.wasm",
     "TemplateData/style.css"
 
 ];

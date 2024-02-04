@@ -10,7 +10,7 @@
   </head>
   <body>
     <div id="unity-container">
-      <canvas id="unity-canvas" width=960 height=600 tabindex="-1"></canvas>
+      <canvas id="unity-canvas" width=1080 height=1920 tabindex="-1"></canvas>
       <div id="unity-loading-bar">
         <div id="unity-logo"></div>
         <div id="unity-progress-bar-empty">
@@ -57,11 +57,11 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/Mobile_Browser.loader.js";
+      var loaderUrl = buildUrl + "/Mobile Web.loader.js";
       var config = {
-        dataUrl: buildUrl + "/Mobile_Browser.data",
-        frameworkUrl: buildUrl + "/Mobile_Browser.framework.js",
-        codeUrl: buildUrl + "/Mobile_Browser.wasm",
+        dataUrl: buildUrl + "/Mobile Web.data",
+        frameworkUrl: buildUrl + "/Mobile Web.framework.js",
+        codeUrl: buildUrl + "/Mobile Web.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Aimins",
         productName: "Cubills",
