@@ -13,7 +13,7 @@ Game is also hosted on Github : https://amitkr000.github.io/Cubills_MobileWeb/
 ## Here are some Screenshots of the gameplay
 &nbsp;
 <p float="left">
-  <img src='/img/cubills_1.png' height="520" width="390" />
+  <img src='/img/cubills_3.png' height="520" width="390" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src='/img/cubills_2.png' height="520" width="390" />
 </p>
